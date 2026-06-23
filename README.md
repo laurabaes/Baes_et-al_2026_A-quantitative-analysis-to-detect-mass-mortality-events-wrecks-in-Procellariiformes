@@ -19,7 +19,7 @@ The workflow was developed to identify mass mortality events (MMEs) from long-te
 5. Hotspot characterization.
 
 Although developed for Procellariiformes stranded along the Brazilian coast, the framework can be adapted to other taxa and geographic regions.
-Data used for this code if available from the Dryad Digital Repository: https://doi.org/10.5061/dryad.cc2fqz6nc (Baes et al., 2026). 
+Data used for this code is available from the Dryad Digital Repository: https://doi.org/10.5061/dryad.cc2fqz6nc (Baes et al., 2026). 
 
 ## Workflow
 
